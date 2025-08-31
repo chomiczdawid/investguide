@@ -1,1 +1,0 @@
-# Jak prosto inwestować?
