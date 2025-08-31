@@ -1,8 +1,67 @@
 ---
 layout: home
-title: Jekyll Chapterbook Theme
+title: Poradnik prostego inwestowania
 permalink: /
 ---
+
+
+## Dlaczego warto zacząć inwestować?
+
+(może dodać tu kilka scenariuszy, taki ,ze zarabiasz, taki, że masz odziedziczoną jakąś kasę albo oszczędziłeś ją wcześniej nwm, ale na koniec efekt jest ten sam, masz nieużywaną gotówkę na koncie)
+
+Przypuśćmy taki scenariusz: posiadasz stały dochód ze swojej codziennej pracy, twoje bieżące wydatki są mniejsze niż całość pensji, więc z miesiąca na miesiąc odkładają się nadwyżki. Nie wiesz co z tymi pieniędzmi zrobić, więc leżą sobie odłożone na twoim koncie bankowym, a ty nie zawracasz sobie tym głowy.
+
+Co dzieje się z tymi pieniędzmi? Jeśli myślisz, że nic to niestety jesteś w błędzie. W rzeczywistości z dnia na dzień wartość twoich oszczędności nieustannie maleje. Wszystkiemu winna jest **inflacja**, czyli wzrost cen. 
+
+| Okres | Inflacja |
+|-----|----------|
+|2021|2,6%|
+|2022|9,4%|
+|2023|16,6%|
+|2024|3,7%|
+|2025|4,9%|
+
+Powyższy wykres pokazuje o ile procent wzrosły ceny w styczniu danego roku w stosunku do stycznia poprzedniego roku. Czyli przykładowo, cena wynosząca 100 złotych w 2020 roku wzrasta do 102,6 złotych w 2021 roku. Kiedy skumulujemy sobie tą inflację za ostatnie pięć lat to okaże się, że ceny wzrosły o **42,37%**! To oznacza, że coś co kosztowało 100 złotych w 2020, teraz kosztuje już 142,37 złotych. Oznacza to także, że każde twoje 100 złotych z roku 2020 ma teraz siłę nabywczą dzisiejszych 70,24 złotych.
+
+Im więcej czasu mija, tym większa skumulowana inflacja. Dlatego każdy dzień kiedy twoje pieniądze leżą odłogiem na koncie bankowym oznacza kolejny dzień utraty wartości twojego majątku.
+
+Jaka jest w takim razie alternatywa? **Inwestowanie**.
+
+
+## Na czym polega inwestowanie?
+
+Inwestowanie pieniędzy to sprawienie aby dla ciebie pracowały. Skoro i tak leżą bezczynnie na koncie i do niczego ich aktualnie nie potrzebujesz, to może ktoś inny mógłby je w tym czasie wykorzystać do czegoś produktywnego. Decydując się powierzyć mu swój kapitał oczekujesz w zamian za to jakiejś korzyści. Może to być zakup akcji przedsiębiorstwa w zamian za udział w jego zysku, albo udzielenie komuś pożyczki w zamian za napływające odsetki. Niezależnie od tego jaką metodę wybierzesz skutek jest ten sam, osiągasz zysk z pracy swojego kapitału.
+
+Kluczowym aspektem w skutecznym inwestowaniu jest czas. Kiedy zainwestujesz swoje pieniądze zysk nie pojawi się od razu. Kapitał potrzebuje czasu aby ten zysk wypracować. Zwykle im więcej czasu tym większy zysk możesz osiągnąć. Stąd mówi się, że czas jest najlepszym przyjacielem inwestora. Dzieje się tak ze względu na działanie tzw. procentu składanego.
+
+Procent składany oznacza, że twój zysk z poprzednich okresów również zaczyna pracować i rodzić dodatkowy zysk. Zademonstruję to na przykłądzie:
+* W pierwszym roku inwestujesz 100 złotych i zarabiasz 10% zysku, czyli 10 złotych, a więc rok kończysz z 110 złotymi wartości inwestycji.
+* Jeśli zostawisz kapitał zainwestowany na kolejny rok i znów zarobisz 10%, to zysk będzie większy niż w poprzednim roku, bo 10% ze 110 złotych to 11 złotych. Rok zakończysz z 121 złotymi.
+* Jeśli dasz kapitałowi pracować jeszcze kolejny rok, efekt będzie jeszcze większy. 10% zarobku na kapitale 121 złotych da już 12,1 złotych zysku, więc łączny kapitał wyniesie 133,1 złotych.
+
+Każdy kolejny rok potęguje ten efekt, dlatego im dłuższy jest czas inwestycji tym większe korzyści można z niej czerpać. Wzrost jest wykładniczy, co demonstruje poniższy wykres.
+
+{% include figure.html
+    caption="Źródło: Opracowanie własne."
+    url="/docs/assets/plot1-procentskladany.png"
+    class="row"
+%}
+
+
+
+Różnica między inwestowaniem a spekulowaniem.
+
+
+
+
+
+
+
+
+
+
+
+
 
 This is a [Jekyll](https://jekyllrb.com/) theme based on [GitBook](https://www.gitbook.com/) that adds support for easily organizing pages into book chapters and parts.
 It doesn't rely on any plugins,
