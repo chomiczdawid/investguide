@@ -43,7 +43,7 @@ Każdy kolejny rok potęguje ten efekt, dlatego im dłuższy jest czas inwestycj
 
 {% include figure.html
     caption="Źródło: Opracowanie własne."
-    url="/docs/assets/plot1-procentskladany.png"
+    url="/assets/plot1-procentskladany.png"
     class="row"
 %}
 
